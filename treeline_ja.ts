@@ -326,7 +326,7 @@ if they share the output file&apos;s name.</source>
     </message>
     <message>
         <source>Derived from &amp;Generic Type</source>
-        <translation>一般の形式から派生した</translation>
+        <translation>一般の形式からの派生(&amp;G)</translation>
     </message>
     <message>
         <source>Automatic Types</source>
@@ -362,8 +362,8 @@ if they share the output file&apos;s name.</source>
         <translation>形式</translation>
     </message>
     <message>
-        <source>上へ(&amp;U)</source>
-        <translation>Déplacer vers le &amp;haut</translation>
+        <source>Move &amp;Up</source>
+        <translation>上へ(&amp;U)</translation>
     </message>
     <message>
         <source>Move Do&amp;wn</source>
@@ -411,7 +411,7 @@ if they share the output file&apos;s name.</source>
     <message>
         <source>Combination</source>
         <comment>フィールド形式</comment>
-        <translation>Combinaison</translation>
+        <translation>組合せ</translation>
     </message>
     <message>
         <source>AutoChoice</source>
@@ -503,19 +503,19 @@ if they share the output file&apos;s name.</source>
     </message>
     <message>
         <source>Content Text Handling</source>
-        <translation>Gestion du contenu texte</translation>
+        <translation>コンテンツ·テキスト処理</translation>
     </message>
     <message>
         <source>Allow HT&amp;ML rich text</source>
-        <translation>Autoriser un texte en HT&amp;ML enrichi</translation>
+        <translation>HTMLリッチテキストを許可(&amp;M)</translation>
     </message>
     <message>
         <source>Plai&amp;n text with line breaks</source>
-        <translation>Texte &amp;normal avec des sauts de ligne</translation>
+        <translation>改行付きのプレーン·テキスト(&amp;N)</translation>
     </message>
     <message>
         <source>Default V&amp;alue for New Nodes</source>
-        <translation>V&amp;aleur par défaut pour les nouveaux nœuds</translation>
+        <translation>新規ノードのデフォルト値(&amp;A)</translation>
     </message>
     <message>
         <source>Editor Height</source>
@@ -535,7 +535,7 @@ if they share the output file&apos;s name.</source>
     </message>
     <message>
         <source>Re&amp;quired to be filled</source>
-        <translation>Ch&amp;amp obligatoire</translation>
+        <translation>満たされるための必須条件(&amp;Q)</translation>
     </message>
     <message>
         <source>Hidden on editor &amp;view</source>
@@ -547,19 +547,19 @@ if they share the output file&apos;s name.</source>
     </message>
     <message>
         <source>No Other Reference</source>
-        <translation>Pas d&apos;Autre Référence</translation>
+        <translation>他に参照なし</translation>
     </message>
     <message>
         <source>Any Ancestor Reference</source>
-        <translation>Toute Référence à un Ascendant</translation>
+        <translation>任意の先祖の参照</translation>
     </message>
     <message>
         <source>Parent Reference</source>
-        <translation>Référence du Parent</translation>
+        <translation>親の参照</translation>
     </message>
     <message>
         <source>Grandparent Reference</source>
-        <translation>Référence du Grand-parent</translation>
+        <translation>二代前の参照</translation>
     </message>
     <message>
         <source>Great Grandparent Reference</source>
@@ -567,43 +567,43 @@ if they share the output file&apos;s name.</source>
     </message>
     <message>
         <source>Child Reference</source>
-        <translation>Réference du Fils</translation>
+        <translation>子の参照</translation>
     </message>
     <message>
         <source>Child Count</source>
-        <translation>Nombre d&apos;enfant</translation>
+        <translation>子のカウント</translation>
     </message>
     <message>
         <source>F&amp;ield List</source>
-        <translation>L&amp;iste des champs</translation>
+        <translation>フィールドリスト(&amp;I)</translation>
     </message>
     <message>
         <source>Titl&amp;e Format</source>
-        <translation>Format du Titr&amp;e</translation>
+        <translation>タイトルの形式(&amp;E)</translation>
     </message>
     <message>
         <source>Other Field References</source>
-        <translation>Références à d&apos;autres champs</translation>
+        <translation>他のフィールド参照</translation>
     </message>
     <message>
         <source>Re&amp;ference Level</source>
-        <translation>Niv&amp;eau de référence</translation>
+        <translation>参照レベル(&amp;F)</translation>
     </message>
     <message>
         <source>Reference Ty&amp;pe</source>
-        <translation>Ty&amp;pe de référence</translation>
+        <translation>参照形式(&amp;P)</translation>
     </message>
     <message>
         <source>Empty name is not acceptable</source>
-        <translation>Un nom vide ne peut être accepté</translation>
+        <translation>空の名前は受け付けません</translation>
     </message>
     <message>
         <source>Name must start with a letter</source>
-        <translation>Un nom doit commencer par une lettre</translation>
+        <translation>名前は英字で始まる必要があります</translation>
     </message>
     <message>
         <source>Name cannot start with &quot;xml&quot;</source>
-        <translation>Un nom ne peut commencer par &quot;xml&quot;</translation>
+        <translation>名前は &quot;xml&quot; で始められません</translation>
     </message>
     <message>
         <source>The following characters are not allowed</source>
@@ -611,11 +611,11 @@ if they share the output file&apos;s name.</source>
     </message>
     <message>
         <source>Entered name was already used</source>
-        <translation>Le nom entré est déja utilisé</translation>
+        <translation>入力した名前は既に使われています</translation>
     </message>
     <message>
         <source>Copy Type</source>
-        <translation>Copier Type</translation>
+        <translation>コピー形式</translation>
     </message>
     <message>
         <source>Derive from original</source>
